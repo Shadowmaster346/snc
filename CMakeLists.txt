@@ -3,4 +3,4 @@ project(cworkspace C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(cworkspace main.c ntcn.h)
+add_executable(cworkspace main.c ntcn.h "key.h")

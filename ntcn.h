@@ -9,6 +9,8 @@
 #include <stdio.h>
 int main1() {
     printf("Hello, C World!\n");
-    printf("This is\n");
-
+    printf("This is a snc v3.1\n");
+    printf("Version on C language\n");
+    printf("This version is not Port or remake original snc on Kotlin!\n");
+    printf("This version may have differences with Kotlin version!\n");
 }
